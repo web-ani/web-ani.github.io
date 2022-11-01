@@ -32,13 +32,13 @@ nav{
       background-repeat: no-repeat;
   }
   #right-col-home { 
-    background-image: url(images/friends.png);
+    background-image: url(Images/friends.png);
   }
   #right-col-about { 
-    background-image: url(images/fun.png);
+    background-image: url(Images/fun.png);
   }
   #right-col-members { 
-    background-image: url(images/selfie.png);
+    background-image: url(Images/selfie.png);
 
  }
  .main-heading{ 
